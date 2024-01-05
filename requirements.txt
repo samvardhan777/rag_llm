@@ -1,0 +1,11 @@
+trulens
+trulens-eval
+langchain
+litellm
+gpt4all
+openai
+chromadb
+neo4j
+neo4j-driver
+ipywidgets
+llama-index
